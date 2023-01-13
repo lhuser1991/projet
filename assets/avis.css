@@ -1,0 +1,52 @@
+.logo{
+  
+    margin-left: 900px;
+  }
+  
+  
+  .form-group{
+    margin-left: 760px;  
+    width: 500px;
+    height: 60px;
+    padding: 20px;
+  
+    
+  }
+
+
+  #story{
+    margin-left: 750px;  
+    width: 500px;
+    height: 60px;
+    padding: 40px;
+  
+  }
+  .button{
+    
+    margin-left: 800px;
+    padding: 175px;
+  }
+  
+  #colonne1,
+#colonne2,
+#colonne3,
+#colonne4 {
+  display: inline-block;
+  vertical-align: top;
+  padding: 100px;
+  color: grey;
+}
+
+section{
+  background-color: #94A7AE;
+}
+
+
+footer ul {
+  padding-inline-start: 0;
+  list-style-type: none;
+}
+
+footer{
+  background-color: #212529
+  }

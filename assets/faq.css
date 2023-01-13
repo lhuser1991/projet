@@ -1,0 +1,48 @@
+.logo{
+  
+    margin-left: 920px;
+  }
+
+img{
+    text-align: center;
+}
+
+
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+
+
+p{
+    text-align: center;
+}
+
+section{
+  background-color: #94A7AE;
+}
+
+footer{
+  background-color: #212529
+  }
+#colonne1,
+#colonne2,
+#colonne3,
+#colonne4 {
+  display: inline-block;
+  vertical-align: top;
+  padding: 100px;
+  color: grey;
+}
+
+footer ul {
+    padding-inline-start: 0;
+    list-style-type: none;
+  }

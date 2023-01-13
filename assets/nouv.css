@@ -1,0 +1,67 @@
+.logo{
+  margin-right: 50px;
+}
+
+.navbar{
+  padding: 550px;
+  }
+.nouv1{
+  margin-left: 600px;
+  padding: 50px;
+}
+.nouv2{
+  margin-left: 700px;
+  padding: 50px;
+}
+.nouv3{
+  margin-left: 600px;
+  padding: 50px;
+}
+
+.nouv4{
+  margin-left: 600px;
+  padding: 50px;
+  
+}
+
+
+h3{
+  margin-left: 730px;
+ 
+}
+h4{
+  margin-left: 730px;
+  color: red;
+ 
+}
+
+h5{
+  padding: 50px;
+  margin-left: 200px;
+}
+
+.div_glob{
+  display: flex;
+}
+
+#colonne1,
+  #colonne2,
+  #colonne3,
+  #colonne4 {
+    display: inline-block;
+    vertical-align: top;
+    padding: 100px;
+    color: grey;
+  }
+
+  section{
+    background-color: #94A7AE;
+  }
+  footer ul {
+    padding-inline-start: 0;
+    list-style-type: none;
+  }
+
+  footer{
+    background-color: #212529
+  }

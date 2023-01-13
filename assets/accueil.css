@@ -1,0 +1,52 @@
+.logo{
+  margin-right: 50px;
+}
+
+.navbar{
+padding:550px;
+}
+
+
+#carouselExampleSlidesOnly{
+  text-align: center;
+  padding: 50px;
+
+}
+
+h4{
+  text-align: center;
+}
+
+.cardgauche{
+
+  margin-left: 300px;
+  
+  
+  }
+  .carddroite{
+  
+      margin-left: 300px;  
+      }
+  
+  
+  #colonne1,
+  #colonne2,
+  #colonne3,
+  #colonne4 {
+    display: inline-block;
+    vertical-align: top;
+    padding: 100px;
+    color: grey;
+
+  }
+section{
+  background-color: #94A7AE;
+}
+  footer ul {
+    padding-inline-start: 0;
+    list-style-type: none;
+  }
+
+  footer{
+    background-color: #212529
+  }

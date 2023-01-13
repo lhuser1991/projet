@@ -1,0 +1,43 @@
+.logo{
+  
+  margin-left: 920px;
+}
+
+.form-group{
+  margin-left: 750px;  
+  width: 500px;
+  height: 60px;
+  padding: 20px;
+
+  
+}
+.button{
+  
+    margin-left: 700px;
+    padding: 200px;
+ }
+ 
+
+
+ #colonne1,
+ #colonne2,
+ #colonne3,
+ #colonne4 {
+   display: inline-block;
+   vertical-align: top;
+   padding: 100px;
+   color: grey;
+ }
+ section{
+  background-color: #94A7AE;
+}
+
+ footer ul {
+   padding-inline-start: 0;
+   list-style-type: none;
+ }
+
+ footer{
+  background-color: #212529
+
+  }
