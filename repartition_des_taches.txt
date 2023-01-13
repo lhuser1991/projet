@@ -1,0 +1,21 @@
+thomas
+esthetique du site
+	-header : barre nav avec accueil, habits homme, habits femme, habits enfant, panier, identification
+	-corps de la page
+	-pieds de page
+
+ilyas
+barre de recherche 
+
+heunpha
+page panier : doit afficher les habits lorsque le client les selectionne
+icone panier : doit s'incrémenter lorsqu'on ajoute un vetement
+
+hassen et heunpha
+bdd : mettre les cles etrangere dans la table commande
+
+heunpha
+page client : affichage des données perso du client
+
+ilyas
+fonction connexion / inscription : doit interroger la bdd 
