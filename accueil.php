@@ -34,8 +34,6 @@ if($article== "homme"){
  <section> 
   <!--Barre de navigation en bootstrap-->
 
-  <h1> LY </h1>
-
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark" >
     <div class="container-fluid">
     <a href="accueil.php">
